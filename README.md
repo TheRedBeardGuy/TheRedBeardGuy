@@ -1,11 +1,29 @@
 <h1 align="center">⚡ Hey, I’m RedBeardGuy ⚡</h1>
 
-  __     __      _                _ 
- / / /\ \ \__ _| | _____  _ __  / |
- \ \/  \/ / _` | |/ / _ \| '_ \ | |
-  \  /\  / (_| |   < (_) | | | || |
-   \/  \/ \__,_|_|\_\___/|_| |_|_|                            
+<p align="center">
+  ⛵⚔️ ᚱᛖᛞᛒᛖᚨᚱᛞ ᚷᚢᚤ ⚔️⛵
+</p>
 
+<p align="center">
+        __/___            
+  _____/______|           
+  \              \       
+ ~~~~~~~~~~~~~~~~
+</p>
+
+---
+
+<p align="center">
+💬 <i>"Fear not the storm — for I am the thunder."</i>
+</p>
+
+<p align="center">
+😹 <i>"I am the liquor… no wait, that’s Ricky. I’m the one with the kitties."</i>
+</p>
+
+<p align="center">
+💬 <i>"A warrior’s heart beats loudest when the night is darkest."</i>
+</p>
 
 ---
 
@@ -18,6 +36,7 @@
 - 🚀 Currently hacking on Bugcrowd + leveling up every day
 
 ---
+
 
 ### 📚 What I’m working on
 
@@ -38,7 +57,26 @@
 
 ### ⚡ Fun Fact
 
-> 💬 “Hack the planet! But responsibly.”
+ 💬 “Hack the planet! But responsibly.”
+
+ ---
+
+### 🍁 The Boys’ Corner 🍁
+
+<p align="center">
+😹 <i>"I am the liquor… no wait, that’s Ricky. I’m the one with the kitties."</i> — Bubbles
+</p>
+
+<p align="center">
+🚬 <i>"Thing with me is that... I am smart. And I'm self-smarted basically by myself."</i> — Ricky
+</p>
+
+<p align="center">
+🕶️ <i>"Sometimes you gotta do what you gotta do — and Julian always knows what to do."</i> — Julian
+</p>
+
+---
+
 
 ---
 
