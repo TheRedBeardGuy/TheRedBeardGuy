@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-🕶️ <i>"Sometimes you gotta do what you gotta do — and Julian always knows what to do."</i> — Julian
+🕶️ <i>"Listen, just pretend you're on mushrooms, all right? Just go with it."</i> — Julian
 </p>
 
 ---
