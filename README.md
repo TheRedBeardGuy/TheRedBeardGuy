@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-😹 <i>"I am the liquor… no wait, that’s Ricky. I’m the one with the kitties."</i>
+💬 <i>"The wolf that stays in its den never catches prey."</i>
 </p>
 
 <p align="center">
