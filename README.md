@@ -74,9 +74,6 @@
 
 ---
 
-
----
-
 ### 🛠️ GitHub Stats
 
 ![RedBeardGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRedBeardGuy&show_icons=true&theme=tokyonight)
