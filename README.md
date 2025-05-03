@@ -61,7 +61,7 @@
 ### 🍁 The Boys’ Corner 🍁
 
 <p align="center">
-😹 <i>"I am the liquor… no wait, that’s Ricky. I’m the one with the kitties."</i> — Bubbles
+😹 <i>"I'm Not Running Over A Kitty To Save Your F****** Dope, Ricky!"</i> — Bubbles
 </p>
 
 <p align="center">
