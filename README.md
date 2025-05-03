@@ -30,7 +30,7 @@
 - 💻 Tools: Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark  
 - ⚙️ Languages: Python, Java, HTML, Bash  
 - 🤖 Projects: AI automation, Arduino builds, web app security  
-- 🚀 Currently hacking on Bugcrowd + leveling up every day
+- 🚀 Currently hacking on TryHackMe & Bugcrowd + leveling up every day
 
 ---
 
